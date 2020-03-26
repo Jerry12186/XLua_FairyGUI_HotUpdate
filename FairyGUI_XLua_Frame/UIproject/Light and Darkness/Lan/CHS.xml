@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <!-- StartUI/Component/ComfirmBtn.xml -->
+  <string name="mvxvf3xkcqu57-n3_cqu5" mz="n3">确定</string>
+  <!-- StartUI/Component/Login.xml -->
+  <string name="mvxvf3xkcqu55-n3_cqu5" mz="n3">登录</string>
+  <!-- StartUI/Component/LoginWin.xml -->
+  <string name="mvxvf3xkcqu50-n4_cqu5-prompt" mz="UserNameInpu">输入用户名</string>
+  <string name="mvxvf3xkcqu50-n2_cqu5" mz="UserNameTip">用户名：</string>
+  <string name="mvxvf3xkcqu50-n3_cqu5" mz="PasswordTip">密码：</string>
+  <string name="mvxvf3xkcqu50-n5_cqu5-prompt" mz="PasswordInput">输入密码</string>
+  <string name="mvxvf3xkcqu50-n17_cqu5-prompt" mz="RUsernameInput">输入用户名</string>
+  <string name="mvxvf3xkcqu50-n13_cqu5" mz="RUserNameTip">用户名：</string>
+  <string name="mvxvf3xkcqu50-n19_cqu5-prompt" mz="RPswInput">输入密码</string>
+  <string name="mvxvf3xkcqu50-n15_cqu5" mz="RPswTip">密码：</string>
+  <string name="mvxvf3xkcqu50-n20_cqu5-prompt" mz="RComfirmPswInput">确认密码</string>
+  <string name="mvxvf3xkcqu50-n14_cqu5" mz="RComfirmPswTip">确认密码：</string>
+  <!-- StartUI/Component/Regist.xml -->
+  <string name="mvxvf3xkcqu56-n3_cqu5" mz="n3">注册</string>
+</resources>

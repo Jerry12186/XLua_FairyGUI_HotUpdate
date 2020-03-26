@@ -1,0 +1,10 @@
+[
+  {"Code":"0","Content":"正常"},
+  {"Code":"9","Content":"未知异常"},
+  {"Code":"10","Content":"账号或密码错误"},
+  {"Code":"11","Content":"账号不存在"},
+  {"Code":"12","Content":"密码错误"},
+  {"Code":"13","Content":"账号已存在"},
+  {"Code":"14","Content":"账号格式不合法"},
+  {"Code":"15","Content":"密码不合法"}
+]

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelUserStore">
+    <attachedFolders />
+    <explicitIncludes>
+      <Path>Library/PackageCache/com.unity.collab-proxy@1.2.15</Path>
+      <Path>Library/PackageCache/com.unity.package-manager-ui@2.0.8</Path>
+      <Path>Packages</Path>
+      <Path>ProjectSettings</Path>
+    </explicitIncludes>
+    <explicitExcludes>
+      <Path>.git</Path>
+      <Path>.idea</Path>
+      <Path>General</Path>
+      <Path>Library</Path>
+      <Path>Logs</Path>
+      <Path>Test</Path>
+      <Path>Tools</Path>
+      <Path>UIElementsSchema</Path>
+      <Path>UIproject</Path>
+      <Path>WebGLPlugins</Path>
+      <Path>build</Path>
+      <Path>docs</Path>
+      <Path>obj</Path>
+    </explicitExcludes>
+  </component>
+</project>

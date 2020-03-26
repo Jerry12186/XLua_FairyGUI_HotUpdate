@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <!-- StartUI/Component/ComfirmBtn.xml -->
+  <string name="mvxvf3xkcqu57-n3_cqu5" mz="n3">OK</string>
+  <!-- StartUI/Component/Login.xml -->
+  <string name="mvxvf3xkcqu55-n3_cqu5" mz="n3">Login</string>
+  <!-- StartUI/Component/LoginWin.xml -->
+  <string name="mvxvf3xkcqu50-n4_cqu5-prompt" mz="UserNameInpu">Input username</string>
+  <string name="mvxvf3xkcqu50-n2_cqu5" mz="UserNameTip">username：</string>
+  <string name="mvxvf3xkcqu50-n3_cqu5" mz="PasswordTip">password：</string>
+  <string name="mvxvf3xkcqu50-n5_cqu5-prompt" mz="PasswordInput">input password</string>
+  <string name="mvxvf3xkcqu50-n17_cqu5-prompt" mz="RUsernameInput">input username</string>
+  <string name="mvxvf3xkcqu50-n13_cqu5" mz="RUserNameTip">username：</string>
+  <string name="mvxvf3xkcqu50-n19_cqu5-prompt" mz="RPswInput">input password</string>
+  <string name="mvxvf3xkcqu50-n15_cqu5" mz="RPswTip">password：</string>
+  <string name="mvxvf3xkcqu50-n20_cqu5-prompt" mz="RComfirmPswInput">comfrim password</string>
+  <string name="mvxvf3xkcqu50-n14_cqu5" mz="RComfirmPswTip">comfrim password：</string>
+  <!-- StartUI/Component/Regist.xml -->
+  <string name="mvxvf3xkcqu56-n3_cqu5" mz="n3">Regist</string>
+</resources>

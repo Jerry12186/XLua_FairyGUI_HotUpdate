@@ -1,0 +1,111 @@
+message GenericResponse{
+	optional int32 code = 1;
+	optional string msg = 2;
+}
+
+message GenericLoginResponse{
+	optional GenericResponse gr = 1;
+	optional int64 sessionid = 2;
+	optional Account account = 3;
+	optional Castle castle = 4;
+	optional ResourceAmount resourceAmount = 5;
+	repeated EquipmentOwn equipmentOwns = 6;
+	repeated BuildingOwn buildingOwns = 7;
+	repeated ArmyOwn armyOwns = 8;
+}
+
+message LoginReq_ActAndPsd {
+	optional string userName = 1;
+	optional string passWord = 2;
+}
+
+message LoginReq_Mechineid{
+	optional string mechineid = 1;
+}
+
+message Account{
+	optional int64 id = 1;
+	optional string nickName = 2;
+	optional string deviceid = 3;
+	optional string signature = 4;
+	optional string avatar = 5;
+	optional bool bindMobile = 6;
+	optional string mobile = 7;
+	optional int32 bindEmail = 8;
+	optional string email = 9;
+	optional bool realNameAuth = 10;
+	optional string realName = 11;
+	optional string idCardNo = 12;
+	optional int32 pwdProtect = 13;
+	optional int32 kingdomId = 14;
+	optional int32 state = 15;
+	optional int32 version = 16;
+	optional int64 createTime = 17;
+	optional int64 modifyTime = 18;
+	optional int32 ext1 = 19;
+	optional int32 ext2 = 20;
+	optional string ext3 = 21;
+	optional string ext4 = 22;
+	optional string ext5 = 23;
+}
+
+message Castle{
+	optional int64 id = 1;
+	optional int32 castleLevel = 2;
+	optional int32 postionX = 3;
+	optional int32 postionY = 4;
+	optional int32 lordLevel = 5;
+	optional int32 exPoint = 6;
+	optional int32 skillPoint = 7;
+	optional int32 vipLevel = 8;
+	optional int32 vipPoint = 9;
+	optional int32 stamina = 10;
+	optional int32 skin = 11;
+	optional int32 version = 12;
+	optional int64 createTime = 13;
+	optional int64 modifyTime = 14;
+}
+message ResourceAmount{
+	optional int64 id = 1;
+	optional int64 diamond = 2;
+	optional int64 food = 3;
+	optional int64 wood = 4;
+	optional int64 blackIce = 5;
+	optional int64 saSteel = 6;
+	optional int32 version = 7;
+	optional int64 createTime = 8;
+	optional int64 modifyTime = 9;
+}
+message EquipmentOwn{
+	optional int64 id = 1;
+	optional int64 actId = 2;
+	optional int32 eqType = 3;
+	optional int64 eqMetaId = 4;
+	optional int32 expPoint = 5;
+	optional int32 equipped = 6;
+	optional int32 version = 7;
+	optional int64 createTime = 8;
+	optional int64 modifyTime = 9;
+}
+message  BuildingOwn{
+	optional int64 id = 1;
+	optional int64 actId = 2;
+	optional int32 buildingType = 3;
+	optional int32 level = 4;
+	optional int32 position = 5;
+	optional int32 state = 6;
+	optional int32 version = 7;
+	optional int64 createTime = 8;
+	optional int64 modifyTime = 9;
+}
+message  ArmyOwn{
+	optional int64 id = 1;
+	optional int64 actId = 2;
+	optional int32 soldierType = 3;
+	optional int32 level = 4;
+	optional int32 num = 5;
+	optional int32 woundedNum = 6;
+	optional int32 version = 7;
+	optional int64 createTime = 8;
+	optional int64 modifyTime = 9;
+}

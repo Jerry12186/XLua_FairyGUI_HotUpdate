@@ -1,0 +1,4 @@
+
+message HeartBeat{
+	optional int32 msgId = 1;
+}

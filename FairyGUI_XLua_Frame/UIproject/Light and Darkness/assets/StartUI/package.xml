@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="mvxvf3xk">
+  <resources>
+    <component id="cqu50" name="LoginWin.xml" path="/Component/" exported="true"/>
+    <image id="cqu52" name="Bg.png" path="/Res/"/>
+    <component id="cqu55" name="Login.xml" path="/Component/"/>
+    <component id="cqu56" name="Regist.xml" path="/Component/"/>
+    <component id="cqu57" name="ComfirmBtn.xml" path="/Component/"/>
+    <component id="l6ok8" name="ServerBtn.xml" path="/Component/"/>
+    <component id="l6ok9" name="ServerListItem.xml" path="/Component/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

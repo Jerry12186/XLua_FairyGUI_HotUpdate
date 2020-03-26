@@ -1,0 +1,26 @@
+{
+	"canvasColor": 10066329,
+	"backgroundColor": 6710886,
+	"auxline2": true,
+	"libview.twoColumn": false,
+	"doc.activeDoc": "ui://mvxvf3xkcqu50",
+	"test.device": "720p Phone",
+	"doc.openedDocs": [
+		"ui://mvxvf3xkcqu50",
+		"ui://mvxvf3xkcqu56",
+		"ui://mvxvf3xkl6ok8",
+		"ui://mvxvf3xkl6ok9"
+	],
+	"libview.currentGroup": "",
+	"test.orientation": "portriait",
+	"libview.firstColumnWidth": 283,
+	"libview.expandedNodes": [
+		"mvxvf3xk",
+		"/",
+		"mvxvf3xk",
+		"/Component/",
+		"mvxvf3xk",
+		"/Res/"
+	],
+	"auxline1": true
+}

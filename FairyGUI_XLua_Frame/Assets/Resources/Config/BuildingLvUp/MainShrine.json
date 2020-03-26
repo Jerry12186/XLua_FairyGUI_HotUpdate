@@ -1,0 +1,15 @@
+[
+  {"Level":"1","FightingPower":"8","LevelUpTime":"0","LevelUpCondition":[],"AssetExpend":[{"Food":0},{"Wood":0},{"Steel":0},{"BlackIce":0}]},
+  {"Level":"2","FightingPower":"22","LevelUpTime":"5","LevelUpCondition":[{"CityWall":1}],"AssetExpend":[{"Food":"3.9K"},{"Wood":"3.9K"},{"Steel":0},{"BlackIce":0}]},
+  {"Level":"3","FightingPower":"44","LevelUpTime":"10","LevelUpCondition":[{"CityWall":2}],"AssetExpend":[{"Food":"5.8K"},{"Wood":"5.8K"},{"Steel":0},{"BlackIce":0}]},
+  {"Level":"4","FightingPower":"83","LevelUpTime":"15","LevelUpCondition":[{"CityWall":3}],"AssetExpend":[{"Food":"9.6K"},{"Wood":"9.6K"},{"Steel":0},{"BlackIce":0}]},
+  {"Level":"5","FightingPower":"153","LevelUpTime":"20","LevelUpCondition":[{"CityWall":4},{"Farm":4}],"AssetExpend":[{"Food":"15K"},{"Wood":"15K"},{"Steel":0},{"BlackIce":0}]},
+  {"Level":"6","FightingPower":"266","LevelUpTime":"40","LevelUpCondition":[{"CityWall":5},{"Woodcutter":5}],"AssetExpend":[{"Food":"44K"},{"Wood":"44K"},{"Steel":0},{"BlackIce":0}]},
+  {"Level":"7","FightingPower":"436","LevelUpTime":"80","LevelUpCondition":[{"CityWall":6},{"Barracks":6}],"AssetExpend":[{"Food":"66K"},{"Wood":"66K"},{"Steel":0},{"BlackIce":0}]},
+  {"Level":"8","FightingPower":"680","LevelUpTime":"160","LevelUpCondition":[{"CityWall":7},{"ItemCentre":7}],"AssetExpend":[{"Food":"100K"},{"Wood":"100K"},{"Steel":0},{"BlackIce":0}]},
+  {"Level":"9","FightingPower":"1013","LevelUpTime":"240","LevelUpCondition":[{"CityWall":8},{"TrainingCenter":8}],"AssetExpend":[{"Food":"150K"},{"Wood":"150K"},{"Steel":0},{"BlackIce":0}]},
+  {"Level":"10","FightingPower":"1455","LevelUpTime":"320","LevelUpCondition":[{"CityWall":9},{"Hospital":9}],"AssetExpend":[{"Food":"250K"},{"Wood":"250K"},{"Steel":0},{"BlackIce":0}]},
+  {"Level":"11","FightingPower":"2024","LevelUpTime":"640","LevelUpCondition":[{"CityWall":10},{"ScienceCentre":10}],"AssetExpend":[{"Food":"450K"},{"Wood":"450K"},{"Steel":"20K"},{"BlackIce":0}]},
+  {"Level":"12","FightingPower":"2740","LevelUpTime":"1280","LevelUpCondition":[{"CityWall":11},{"Hospital":11}],"AssetExpend":[{"Food":"860K"},{"Wood":"860K"},{"Steel":"56K"},{"BlackIce":0}]},
+  {"Level":"13","FightingPower":"3626","LevelUpTime":"2560","LevelUpCondition":[{"CityWall":12},{"BlackIce":12}],"AssetExpend":[{"Food":"1.65M"},{"Wood":"1.65M"},{"Steel":"144K"},{"BlackIce":0}]}
+]

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="720,1280">
+  <controller name="LoginCtrl" alias="登录注册控制器" pages="0,,1,,3," selected="2"/>
+  <displayList>
+    <image id="n25_cqu5" name="n25" src="cqu52" fileName="Res/Bg.png" xy="0,0"/>
+    <component id="n6_cqu5" name="LoginBtn" src="cqu55" fileName="Component/Login.xml" xy="431,655" size="101,51" group="n12_cqu5"/>
+    <text id="n4_cqu5" name="UserNameInpu" xy="258,446" size="344,43" group="n7_cqu5" input="true" prompt="输入用户名" font="Heiti SC" fontSize="30" autoSize="none" singleLine="true" text=""/>
+    <text id="n2_cqu5" name="UserNameTip" xy="94,446" size="133,43" group="n7_cqu5" fontSize="30" autoSize="none" text="用户名："/>
+    <group id="n7_cqu5" name="UserName" xy="94,446" size="508,43" group="n12_cqu5"/>
+    <text id="n3_cqu5" name="PasswordTip" xy="94,541" size="122,43" group="n8_cqu5" fontSize="30" autoSize="none" text="密码："/>
+    <text id="n5_cqu5" name="PasswordInput" xy="258,541" size="344,43" group="n8_cqu5" input="true" prompt="输入密码" password="true" fontSize="30" autoSize="none" singleLine="true" text=""/>
+    <group id="n8_cqu5" name="Password" xy="94,541" size="508,43" group="n12_cqu5"/>
+    <component id="n11_cqu5" name="RegistBtn" src="cqu56" fileName="Component/Regist.xml" xy="188,655" group="n12_cqu5"/>
+    <group id="n12_cqu5" name="LoginPanel" xy="94,446" size="508,260" advanced="true">
+      <gearDisplay controller="LoginCtrl" pages="0"/>
+    </group>
+    <text id="n17_cqu5" name="RUsernameInput" xy="324,449" size="266,43" group="n18_cqu5" input="true" prompt="输入用户名" fontSize="30" autoSize="none" text=""/>
+    <text id="n13_cqu5" name="RUserNameTip" xy="118,449" size="163,43" group="n18_cqu5" fontSize="30" autoSize="none" text="用户名："/>
+    <group id="n18_cqu5" name="RUserName" xy="118,449" size="472,43" group="n23_cqu5"/>
+    <component id="n24_cqu5" name="OkBtn" src="cqu57" fileName="Component/ComfirmBtn.xml" xy="285,775" group="n23_cqu5"/>
+    <text id="n19_cqu5" name="RPswInput" xy="324,550" size="266,43" group="n21_cqu5" input="true" prompt="输入密码" password="true" fontSize="30" autoSize="none" text=""/>
+    <text id="n15_cqu5" name="RPswTip" xy="118,550" size="162,43" group="n21_cqu5" fontSize="30" autoSize="none" text="密码："/>
+    <group id="n21_cqu5" name="RPsw" xy="118,550" size="472,43" group="n23_cqu5"/>
+    <text id="n20_cqu5" name="RComfirmPswInput" xy="324,653" size="330,43" group="n22_cqu5" input="true" prompt="确认密码" password="true" fontSize="30" autoSize="none" text=""/>
+    <text id="n14_cqu5" name="RComfirmPswTip" xy="118,653" size="161,43" group="n22_cqu5" fontSize="30" autoSize="none" text="确认密码："/>
+    <group id="n22_cqu5" name="RComfirm" xy="118,653" size="536,43" group="n23_cqu5"/>
+    <group id="n23_cqu5" name="RegistPanel" xy="118,449" size="536,376" advanced="true">
+      <gearDisplay controller="LoginCtrl" pages="1"/>
+    </group>
+    <list id="n31_l6ok" name="ServerList" xy="195,73" size="330,484" group="n29_l6ok" visible="false" overflow="scroll" align="center">
+      <item url="ui://mvxvf3xkl6ok9"/>
+      <item url="ui://mvxvf3xkl6ok9"/>
+      <item url="ui://mvxvf3xkl6ok9"/>
+      <item url="ui://mvxvf3xkl6ok9"/>
+      <item url="ui://mvxvf3xkl6ok9"/>
+      <item url="ui://mvxvf3xkl6ok9"/>
+      <item url="ui://mvxvf3xkl6ok9"/>
+    </list>
+    <component id="n28_l6ok" name="ServerBtn" src="l6ok8" fileName="Component/ServerBtn.xml" xy="160,590" group="n29_l6ok"/>
+    <group id="n29_l6ok" name="ServerPanel" xy="160,73" size="400,617" advanced="true">
+      <gearDisplay controller="LoginCtrl" pages="3"/>
+    </group>
+  </displayList>
+</component>

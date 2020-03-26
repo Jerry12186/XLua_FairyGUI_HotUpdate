@@ -1,0 +1,134 @@
+[
+  {
+    "Level": 1,
+    "Power": 1,
+    "Hp": 180,
+    "Atk": 17,
+    "Def": 14,
+    "AtkRan": 1,
+    "Speed": 12,
+    "Weight": 7,
+    "Gift": "被弓兵攻击伤害降低5%"
+  },
+  {
+    "Level": 2,
+    "Power": 1.5,
+    "Hp": 296,
+    "Atk": 19,
+    "Def": 18,
+    "AtkRan": 1,
+    "Speed": 10,
+    "Weight": 9,
+    "Gift": "防守时增加部队生命值5%"
+  },
+  {
+    "Level": 3,
+    "Power": 2.1,
+    "Hp": 315,
+    "Atk": 28,
+    "Def": 21,
+    "AtkRan": 1,
+    "Speed": 12,
+    "Weight": 8,
+    "Gift": "被弓兵攻击伤害降低7%"
+  },
+  {
+    "Level": 4,
+    "Power": 2.8,
+    "Hp": 467,
+    "Atk": 31,
+    "Def": 26,
+    "AtkRan": 1,
+    "Speed": 10,
+    "Weight": 10,
+    "Gift": "防守时增加部队生命值7%"
+  },
+  {
+    "Level": 5,
+    "Power": 3.6,
+    "Hp": 528,
+    "Atk": 42,
+    "Def": 34,
+    "AtkRan": 1,
+    "Speed": 12,
+    "Weight": 10,
+    "Gift": "被弓兵攻击伤害降低10%"
+  },
+  {
+    "Level": 6,
+    "Power": 4.5,
+    "Hp": 760,
+    "Atk": 53,
+    "Def": 42,
+    "AtkRan": 1,
+    "Speed": 10,
+    "Weight": 12,
+    "Gift": "防守时增加部队生命值10%"
+  },
+  {
+    "Level": 7,
+    "Power": 5.5,
+    "Hp": 800,
+    "Atk": 69,
+    "Def": 53,
+    "AtkRan": 1,
+    "Speed": 12,
+    "Weight": 12,
+    "Gift": "被弓兵攻击伤害降低12%"
+  },
+  {
+    "Level": 8,
+    "Power": 6.7,
+    "Hp": 1000,
+    "Atk": 77,
+    "Def": 69,
+    "AtkRan": 1,
+    "Speed": 10,
+    "Weight": 14,
+    "Gift": "防守时增加部队生命值12%"
+  },
+  {
+    "Level": 9,
+    "Power": 8.7,
+    "Hp": 1200,
+    "Atk": 96,
+    "Def": 81,
+    "AtkRan": 1,
+    "Speed": 12,
+    "Weight": 14,
+    "Gift": "被弓兵攻击伤害降低15%"
+  },
+  {
+    "Level": 10,
+    "Power": 9.7,
+    "Hp": 1600,
+    "Atk": 107,
+    "Def": 98,
+    "AtkRan": 1,
+    "Speed": 10,
+    "Weight": 16,
+    "Gift": "防守时增加部队生命值15%"
+  },
+  {
+    "Level": 11,
+    "Power": 11.6,
+    "Hp": 1900,
+    "Atk": 130,
+    "Def": 109,
+    "AtkRan": 1,
+    "Speed": 12,
+    "Weight": 16,
+    "Gift": "被弓兵攻击伤害降低20%"
+  },
+  {
+    "Level": 12,
+    "Power": 13.7,
+    "Hp": 2100,
+    "Atk": 160,
+    "Def": 122,
+    "AtkRan": 1,
+    "Speed": 12,
+    "Weight": 20,
+    "Gift": "防守时增加部队生命值20%"
+  }
+]

@@ -1,0 +1,9 @@
+{
+	"langFiles":[{
+		"name":"CHS",
+		"path":"Lan/CHS.xml"
+	},{
+		"name":"EN",
+		"path":"Lan/EN.xml"
+	}]
+}
